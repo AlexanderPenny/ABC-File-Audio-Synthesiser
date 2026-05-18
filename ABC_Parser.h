@@ -1,3 +1,9 @@
+// --------------------------
+// Copyright (c) 2026 Alexander L. Penny
+// Licensed under the MIT License - see LICENSE file for details
+// Project Link - https://github.com/AlexanderPenny/ABC-File-Audio-Synthesiser
+// --------------------------
+
 #pragma once
 #include "ABC_Note.h"
 #include <string>
