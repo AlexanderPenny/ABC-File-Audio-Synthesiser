@@ -1,3 +1,7 @@
+## Licenses
+The "LICENSE" file applies to everything but "sokol_audio.h" and "SOKOL_AUDIO_LICENSE".
+SOKOL_AUDIO_LICENSE is the LICENSE that applies to "sokol_audio.h" ONLY.
+
 ## Code Overview
 
 This application acts as a custom digital audio synthesiser that translates alphanumeric **ABC notation** data into sound.
