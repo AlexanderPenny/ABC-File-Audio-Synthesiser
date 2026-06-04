@@ -1,6 +1,6 @@
 ## Licenses
-The "LICENSE" file applies to everything but "sokol_audio.h" and "SOKOL_AUDIO_LICENSE".
-SOKOL_AUDIO_LICENSE is the LICENSE that applies to "sokol_audio.h" ONLY.
+The "LICENSE" file applies to everything but "sokol_audio.h"
+To see the "sokol_audio.h" license, visit: https://github.com/floooh/sokol/blob/master/LICENSE
 
 ## Code Overview
 
