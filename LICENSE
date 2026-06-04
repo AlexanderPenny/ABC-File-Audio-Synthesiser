@@ -1,4 +1,4 @@
-This license applies to all files except the sokol audio ("sokol_audio.h").
+This license applies to all files except the sokol audio ("sokol_audio.h"). See the "sokol_audio.h" license here: https://github.com/floooh/sokol/blob/master/LICENSE
 -------------------
 MIT License
 
