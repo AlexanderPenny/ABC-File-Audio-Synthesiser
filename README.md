@@ -11,6 +11,10 @@ The code is structured to cleanly handle:
 * **Waveform Synthesis:** It dynamically translates those parsed musical elements into their corresponding digital audio frequencies.
 * **Audio Streaming:** It pushes the calculated frequencies directly into a live audio stream for real-time playback.
 
+## Demo Video
+
+[Watch the synthesiser demo on Medal](https://medal.tv/clips/mVj2OBFegCtq5JN7p?invite=cr-MSwzTFcsNjY0MDA1MTA5LA)
+
 ---
 
 ## Where to Find ABC Files
